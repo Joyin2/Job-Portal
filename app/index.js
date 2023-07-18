@@ -22,7 +22,7 @@ const Home = () => {
             return <ScreenHeaderBtn iconUrl={icons.menu} dimension="60%" />;
           },
           headerRight: () => {
-            return <ScreenHeaderBtn iconUrl={icons.profile} dimension="100%" />;
+            return <ScreenHeaderBtn iconUrl={images.profile} dimension="100%" />;
           },
           headerTitle: () => {
             return (
